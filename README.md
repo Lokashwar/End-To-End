@@ -12,5 +12,5 @@
 
 '''python setup.py install'''
 
-## Git commands
+## Git commits
 
