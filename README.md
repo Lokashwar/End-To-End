@@ -14,3 +14,5 @@
 
 ## Git commits
 
+## Exception Handling and Logging
+
