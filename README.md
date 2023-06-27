@@ -14,5 +14,6 @@
 
 ## Git commits
 
-## Exception Handling and Logging
-
+'''git add .
+   git comiit -m " "
+   git push -u origin main'''
