@@ -4,16 +4,6 @@
 
 '''conda create -p venv python=3.8'''
 
-## Create a requirements.txt file
-
-''' pip install -r requirements.txt '''
-
 ## Create a setup.py file
 
 '''python setup.py install'''
-
-## Git commits
-
-'''git add .
-   git comiit -m " "
-   git push -u origin main'''
